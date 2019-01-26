@@ -1,0 +1,96 @@
+.mainBox {
+  /* height: 100px; */
+  /* ; */
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.mainBox div {
+  /* width: 100px;
+  height: 100px; */
+  /* background:#f0f0f0; */
+  border: 5px solid black;
+  box-sizing: border-box;
+}
+
+div.top {
+  border-bottom: none;
+}
+
+div.bottom {
+  position: relative;
+  top: -2px;
+  border-top: none;
+}
+
+div.one {
+  border: none;
+  border-right: 5px solid black;
+  position: relative;
+  left:-50%;
+}
+
+div.two:first-child {
+  border-left: none;
+}
+
+div.two:last-child {
+  border-top: 5px solid black;
+  border-right: none;
+}
+
+div.three {
+  border-left: none;
+}
+
+div.three:last-child {
+  border-top: 5px solid black;
+}
+
+div.four:first-child {
+  border-top: none
+}
+
+div.four:last-child {
+  border-top: 5px solid black;
+  border-left: none;
+  border-bottom: none;
+}
+
+div.five:first-child {
+  border-right: none;
+}
+
+div.five:last-child {
+  border-top: 5px solid black;
+  border-left: none;
+}
+
+div.six:first-child {
+  border-right: none;
+}
+
+div.six:last-child {
+  border-top: 5px solid black;
+}
+
+div.seven:last-child {
+  border: none;
+  border-right: 5px solid black;
+}
+
+div.eight {
+  border: 5px solid black;
+}
+
+div.eight:first-child {
+  /* border:5px solid black; */
+  border-bottom: none;
+}
+
+div.nine:last-child {
+  border-left: none;
+  border-top: 5px solid black;
+}
+
+div.zero {}
