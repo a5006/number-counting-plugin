@@ -1,7 +1,8 @@
 # number-counting-plugin
 number counting plugin build by origin javascript
 一个看起来不是很有用的数字显示插件
-![gif](https://github.com/a5006/number-counting-plugin/tree/master/image/show.gif)
+
+![image](https://github.com/a5006/number-counting-plugin/blob/master/image/show.gif)
 
 ```javascript
 
