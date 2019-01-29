@@ -22,3 +22,6 @@ npm install -S numComp
       })
 ```
 
+## demo
+
+https://jsbin.com/zurujitora/edit?html,css,js,output
